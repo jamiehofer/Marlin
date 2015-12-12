@@ -2,7 +2,7 @@
 <img align="top" width=175 src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
  Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
 
-## Release Candidate -- Marlin 1.1.0-RC3 - 01 December 2015
+## Based on Release Candidate -- Marlin 1.1.0-RC3 - 01 December 2015
 
 __Not for production use – use with caution!__
 
