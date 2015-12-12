@@ -1,4 +1,4 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Printer Firmware for Makerfarm Pegasus
 <img align="top" width=175 src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
  Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
 
